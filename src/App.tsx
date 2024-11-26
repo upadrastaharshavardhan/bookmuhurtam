@@ -17,7 +17,7 @@ function App() {
       
       setFormSubmitted(true);
       e.currentTarget.reset();
-      setTimeout(() => setFormSubmitted(false), 10000);
+      setTimeout(() => setFormSubmitted(false), 3000);
     } 
     catch (error) {
       alert('Form submitted successfully! Thank you for reaching out to us.');
