@@ -21,7 +21,7 @@ function App() {
     } 
     // catch (error) {
     //   alert('Error submitting the form. Our team will resolve this issue soon.');
-    }
+    // }
   };
 
   return (
