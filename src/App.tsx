@@ -18,8 +18,9 @@ function App() {
       setFormSubmitted(true);
       e.currentTarget.reset();
       setTimeout(() => setFormSubmitted(false), 3000);
-    } catch (error) {
-      alert('Error submitting the form. Our team will resolve this issue soon.');
+    } 
+    // catch (error) {
+    //   alert('Error submitting the form. Our team will resolve this issue soon.');
     }
   };
 
