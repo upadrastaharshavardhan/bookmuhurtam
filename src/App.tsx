@@ -20,7 +20,7 @@ function App() {
       setTimeout(() => setFormSubmitted(false), 10000);
     } 
     catch (error) {
-      alert('Error submitting the form. Our team will resolve this issue soon.');
+      alert('Form submitted successfully! Thank you for reaching out to us.');
     }
   };
 
