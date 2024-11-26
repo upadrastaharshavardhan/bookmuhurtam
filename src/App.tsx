@@ -15,14 +15,14 @@ function App() {
         mode: 'no-cors'
       });
       
-      setFormSubmitted(true);
-      e.currentTarget.reset();
-      setTimeout(() => setFormSubmitted(false), 3000);
-    } 
-    // catch (error) {
-    //   alert('Error submitting the form. Our team will resolve this issue soon.');
-    // }
-  };
+  //     setFormSubmitted(true);
+  //     e.currentTarget.reset();
+  //     setTimeout(() => setFormSubmitted(false), 3000);
+  //   } 
+  //   // catch (error) {
+  //   //   alert('Error submitting the form. Our team will resolve this issue soon.');
+  //   // }
+  // };
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-900 via-indigo-900 to-blue-900 py-12 px-4 sm:px-6 lg:px-8">
