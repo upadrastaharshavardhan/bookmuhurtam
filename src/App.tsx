@@ -227,7 +227,7 @@ function App() {
                 Submit Details
               </button>
               <a
-                 href="https://upadrastaharshavardhan.github.io/rutvikservices/"
+                 href="https://rutvikourservices.netlify.app"
                 className="flex items-center justify-center gap-2 px-6 py-3 bg-purple-900/50 text-purple-300 font-semibold rounded-lg hover:bg-purple-900/70 transition-all duration-300"
               >
                 <ChevronLeft className="w-5 h-5" />
